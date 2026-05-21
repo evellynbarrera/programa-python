@@ -44,7 +44,7 @@ if __name__ == "__main__":
     # Matriz inicial con 4 recursos y sus horas de Lunes a Viernes (5 días)
     # Formato de fila: [Nombre, Lunes, Martes, Miércoles, Jueves, Viernes]
     matriz_horas = [
-        ["Juan Pérez",  8, 8, 9, 8, 8],   # Total: 41 horas -> Sobretiempo
+        ["Juan Pérez",  9, 8, 9, 8, 8],   # Total: 41 horas -> Sobretiempo
         ["María Gómez", 8, 8, 8, 8, 8],   # Total: 40 horas -> Horario Estándar
         ["Carlos Ruiz", 9, 9, 9, 9, 8],   # Total: 44 horas -> Sobretiempo
         ["Ana Torres",  6, 7, 8, 8, 7]    # Total: 36 horas -> Horario Estándar
